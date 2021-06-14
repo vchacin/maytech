@@ -1,1 +1,1 @@
-# maytech
+# maytech-seguridad
